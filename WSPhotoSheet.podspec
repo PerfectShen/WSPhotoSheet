@@ -17,4 +17,6 @@
   "requires_arc": true,
   "source_files": "WSPhotoSheet/*",
   "frameworks": "UIKit"
+
+  
 }
